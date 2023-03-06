@@ -11,7 +11,7 @@ print("----------------------------------------------")
 n = int(input("Digite el numero a revisar: "))
 
 x = n //10
-y = n%10
+y = n/10
 
 
 #procesing
